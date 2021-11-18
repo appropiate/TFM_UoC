@@ -1,0 +1,8 @@
+disease,drug,adj_similarity_A,adj_similarity_B,mean_adj_similarity,Novelly repurposable,Existing reference for application in MM
+Multiple Myeloma,sparfloxacin,0.888400734,0.998769631,0.943585183,Yes,Not found
+Multiple Myeloma,mitoxantrone,0.888400734,0.998769631,0.943585183,No,https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1600-0609.1993.tb01597.x?sid=nlm%3Apubmed
+Multiple Myeloma,lenalidomide,0.828425373,0.996908137,0.912666755,No,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3615865/
+Multiple Myeloma,erlotinib,0.888400734,0.872806011,0.880603372,No,https://www.nature.com/articles/bjc2014290
+Multiple Myeloma,etoposide,0.745453351,0.992252128,0.86885274,No,https://www.astctjournal.org/article/S1083-8791(10)00294-6/fulltext
+Multiple Myeloma,sunitinib,0.639802823,0.512747219,0.576275021,No,https://clinicaltrials.gov/ct2/show/NCT00514137
+Multiple Myeloma,dexamethasone,0.616450288,0.481508419,0.548979354,No,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3042271/

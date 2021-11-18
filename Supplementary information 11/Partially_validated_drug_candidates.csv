@@ -1,0 +1,63 @@
+Disease,Drug,Adj_similarity_A,Adj_similarity_B,Mean_adj_similarity,Molecule type,Novelly repurposable,Reference for previous application in MM (as for October 2021)
+Multiple Myeloma,axitinib,0.677252767,0.564472385,0.620862576,TK inhibitor,Yes,Not found
+Multiple Myeloma,balsalazide,0.745453351,0.992252128,0.86885274,NSAID,Yes,Not found
+Multiple Myeloma,carbidopa,0.518618498,0.952840306,0.735729402,decarboxylase inhibitor,Yes,Not found
+Multiple Myeloma,cefdinir,0.888400734,0.872806011,0.880603372,antibiotic,Yes,Not found
+Multiple Myeloma,doxylamine,0.722685837,0.952840306,0.837763071,antihistamine,Yes,Not found
+Multiple Myeloma,etoricoxib,0.888400734,0.998769631,0.943585183,selective COX-2 inhibitors,Yes,Not found
+Multiple Myeloma,floxuridine,0.888400734,0.998769631,0.943585183,antimetabolites,Yes,Not found
+Multiple Myeloma,flutamide,0.803425312,0.995798526,0.899611919,nonsteroidal antiandrogens,Yes,Not found
+Multiple Myeloma,ketoprofen,0.677252767,0.985755094,0.831503931,NSAID,Yes,Not found
+Multiple Myeloma,levofloxacin,0.888400734,0.998769631,0.943585183,antibiotics,Yes,Not found
+Multiple Myeloma,meclizine,0.745453351,0.662845339,0.704149345,antihistamine,Yes,Not found
+Multiple Myeloma,mifepristone,0.639802823,0.512747219,0.576275021,antiprogestational steroids,Yes,Not found
+Multiple Myeloma,oxaprozin,0.745453351,0.662845339,0.704149345,NSAID,Yes,Not found
+Multiple Myeloma,oxiconazole,0.888400734,0.872806011,0.880603372,antifungal,Yes,Not found
+Multiple Myeloma,parecoxib,0.745453351,0.992252128,0.86885274,selective COX-2 inhibitors,Yes,Not found
+Multiple Myeloma,ponatinib,0.584475943,0.44012205,0.512298996,TK inhibitor,Yes,Not found
+Multiple Myeloma,pregnenolone,0.518618498,0.360314342,0.43946642,Hormone,Yes,Not found
+Multiple Myeloma,rilpivirine,0.888400734,0.998769631,0.943585183,antiretroviral,Yes,Not found
+Multiple Myeloma,tenoxicam,0.745453351,0.992252128,0.86885274,NSAID,Yes,Not found
+Multiple Myeloma,triclosan,0.863675034,0.604918085,0.734296559,antibacterial and antifungal,Yes,Not found
+Multiple Myeloma,valrubicin,0.888400734,0.998769631,0.943585183,doxorubicin analog,Yes,Not found
+Multiple Myeloma,argatroban,0.888400734,0.998769631,0.943585183,,No,https://agsjournals.onlinelibrary.wiley.com/doi/10.1111/jgs.14186
+Multiple Myeloma,atorvastatin,0.802499376,0.481508419,0.642003898,,No,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5477827/
+Multiple Myeloma,baricitinib,0.745453351,0.662845339,0.704149345,,No,https://pubmed.ncbi.nlm.nih.gov/31549971/
+Multiple Myeloma,bortezomib,0.887777533,0.992252128,0.940014831,,No,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1936263/
+Multiple Myeloma,curcumin,0.705682944,0.604918085,0.655300514,,No,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7141712/
+Multiple Myeloma,cyclophosphamide,0.888400734,0.998769631,0.943585183,,No,https://pubmed.ncbi.nlm.nih.gov/6697291/
+Multiple Myeloma,dactinomycin,0.745453351,0.992252128,0.86885274,,No,https://www.haematologica.org/article/view/6389
+Multiple Myeloma,dasatinib,0.518618498,0.360314342,0.43946642,,No,https://clinicaltrials.gov/ct2/show/NCT00429949
+Multiple Myeloma,daunorubicin,0.745453351,0.992252128,0.86885274,,No,https://journals.lww.com/anti-cancerdrugs/Abstract/2003/11000/Liposomal_daunorubicin__DaunoXome__in_multiple.4.aspx?trendmd-shared=0
+Multiple Myeloma,diclofenac,0.745453351,0.992252128,0.86885274,,No,https://pubmed.ncbi.nlm.nih.gov/10773765/
+Multiple Myeloma,epirubicin,0.745453351,0.992252128,0.86885274,,No,https://cancerres.aacrjournals.org/content/48/21/6246
+Multiple Myeloma,etodolac,0.677252767,0.564472385,0.620862576,,No,https://www.clinicaltrials.gov/ct2/show/NCT00293111
+Multiple Myeloma,idarubicin,0.888400734,0.998769631,0.943585183,,No,https://pubmed.ncbi.nlm.nih.gov/9436934/
+Multiple Myeloma,ifosfamide,0.888400734,0.998769631,0.943585183,,No,https://pubmed.ncbi.nlm.nih.gov/3165236/
+Multiple Myeloma,imatinib,0.639802823,0.980720278,0.81026155,,No,https://pubmed.ncbi.nlm.nih.gov/16321825/
+Multiple Myeloma,isoniazid,0.745453351,0.662845339,0.704149345,antibiotic,No,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3625000/
+Multiple Myeloma,ketoconazole,0.705682944,0.604918085,0.655300514,antifungic,No,https://www.clinicaltherapeutics.com/article/S0149-2918(09)00402-0/pdf
+Multiple Myeloma,meloxicam,0.745453351,0.662845339,0.704149345,,No,https://clinicaltrials.gov/ct2/show/NCT02078102
+Multiple Myeloma,mesalazine,0.818033379,0.996473726,0.907253553,,No,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6213847/
+Multiple Myeloma,methotrexate,0.677252767,0.564472385,0.620862576,,No,https://www.haematologica.org/article/view/9930
+Multiple Myeloma,midostaurin,0.745453351,0.662845339,0.704149345,,No,https://ashpublications.org/blood/article/130/Supplement%201/4412/72784/Midostaurin-Shows-Efficacy-in-Refractory-Multiple
+Multiple Myeloma,moxifloxacin,0.888400734,0.998769631,0.943585183,,No,https://go.drugbank.com/indications/DBCOND0040908/clinical_trials/DB00218?phase=3&status=completed
+Multiple Myeloma,nintedanib,0.639802823,0.512747219,0.576275021,,No,https://clinicaltrials.gov/ct2/show/NCT02182141
+Multiple Myeloma,norfloxacin,0.888400734,0.998769631,0.943585183,antibiotic,No,https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/610664
+Multiple Myeloma,pazopanib,0.568199385,0.41970121,0.493950297,,No,https://clinicaltrials.gov/ct2/show/NCT00256880
+Multiple Myeloma,pheniramine,0.722685837,0.360314342,0.54150009,,No,https://www.nature.com/articles/bmt2008343
+Multiple Myeloma,piroxicam,0.745453351,0.662845339,0.704149345,,No,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4223015/
+Multiple Myeloma,pomalidomide,0.888400734,0.872806011,0.880603372,,No,https://www.nature.com/articles/s41375-020-01021-3
+Multiple Myeloma,resveratrol,0.561787937,0.411780735,0.486784336,,No,https://pubmed.ncbi.nlm.nih.gov/17164350/
+Multiple Myeloma,rifampicin,0.888400734,0.872806011,0.880603372,antibiotic,No,https://ashpublications.org/blood/article/116/21/3983/67650/Effect-of-the-Cytochrome-P450-3A4-Inducers
+Multiple Myeloma,ruxolitinib,0.745453351,0.662845339,0.704149345,Kinase inhibitor,No,https://clincancerres.aacrjournals.org/content/26/10/2346
+Multiple Myeloma,sorafenib,0.662511939,0.543886754,0.603199346,Kinase inhibitor,No,https://clinicaltrials.gov/ct2/show/NCT00687674
+Multiple Myeloma,tadalafil,0.461926143,0.138954588,0.300440365,PDE inhibitor,No,https://clinicaltrials.gov/ct2/show/NCT01374217
+Multiple Myeloma,thalidomide,0.717410178,0.621854829,0.669632503,IMiD,No,https://ascopubs.org/doi/10.1200/JCO.2003.03.139
+Multiple Myeloma,tofacitinib,0.745453351,0.662845339,0.704149345,JAK Inhibitors,No,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6029548/
+Multiple Myeloma,topotecan,0.518618498,0.360314342,0.43946642,topoisomerase inhibitor,No,https://ascopubs.org/doi/10.1200/JCO.1998.16.2.589?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed
+Multiple Myeloma,trifluridine,0.888400734,0.998769631,0.943585183,,No,https://pubmed.ncbi.nlm.nih.gov/33294265/
+Multiple Myeloma,trimethoprim,0.745453351,0.662845339,0.704149345,antibiotic,No,https://pubmed.ncbi.nlm.nih.gov/8678082/
+Multiple Myeloma,trovafloxacin,0.888400734,0.998769631,0.943585183,antibiotic,No,https://www.sciencedirect.com/science/article/abs/pii/S0301472X00003593
+Multiple Myeloma,vemurafenib,0.888400734,0.872806011,0.880603372,BRAF kinase inhibitor ,No,https://onlinelibrary.wiley.com/doi/10.1002/hon.2353
+Multiple Myeloma,warfarin,0.745453351,0.662845339,0.704149345,anticoagulant,No,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7016665/ 
