@@ -1,0 +1,17 @@
+receptor= kit.pdbqt
+
+ligand= ponatinib.pdbqt
+
+out = output.pdbqt
+
+size_x = 35
+size_y = 35
+size_z = 35
+
+center_x = 34.6539
+center_y = 10.825
+center_z = 45.7105
+
+
+energy_range = 4
+exhaustiveness= 8
