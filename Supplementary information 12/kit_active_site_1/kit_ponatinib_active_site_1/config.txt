@@ -1,0 +1,14 @@
+
+size_x = 36
+size_y = 36
+size_z = 36
+
+center_x = 34.654
+center_y = 10.825
+center_z = 44.311
+
+
+
+
+energy_range = 4
+exhaustiveness= 8
